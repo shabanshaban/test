@@ -4,27 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-//dsadsadadad
-
-/*
-*
-*
-*
-* sdadasdadasdasadada
-*
-* */
-    }
-
-    public void s(){
-
-
-
-        //dsadasdada
+        setContentView(R.layout.activity_main2);
     }
 }
